@@ -46,3 +46,38 @@ The dataset contains demographic information such as age, education, occupation,
   * Recall: 0.5700
   * F1-score: 0.6349
   * AUC-ROC: 0.7482
+
+* QDA:
+  * Testing accuracy: 0.7529
+  * Precision: 0.3854
+  * Recall: 0.0100
+  * F1-score: 0.0195
+  * AUC-ROC: 0.5024
+
+* Logistic Regression:
+  * Testing accuracy: 0.8476
+  * Precision: 0.7292
+  * Recall: 0.6041
+  * F1-score: 0.6608
+  * AUC-ROC: 0.7655
+
+* SVM:
+  * Testing accuracy: 0.8457
+  * Precision: 0.7409
+  * Recall: 0.5719
+  * F1-score: 0.6455
+  * AUC-ROC: 0.7534
+
+* Random Forest:
+  * Testing accuracy: 0.8485
+  * Precision: 0.7239
+  * Recall: 0.6200
+  * F1-score: 0.6679
+  * AUC-ROC: 0.7715
+
+* Gradient Boosting:
+  * Testing accuracy: 0.8663
+  * Precision: 0.7929
+  * Recall: 0.6168
+  * F1-score: 0.6938
+  * AUC-ROC: 0.7821
