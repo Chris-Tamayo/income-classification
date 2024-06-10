@@ -24,6 +24,7 @@ This project aims to predict whether an individual's income exceeds $50,000 per 
 
 ```bash
 git clone https://github.com/username/income-classification.git
+```
 
 2. Install the required dependencies:
 
